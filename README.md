@@ -1,4 +1,5 @@
 # ProjectEz
+CD : ล้างหน่อยนะพี่ เค็มปี๋เลยคะ.
 A Multithreading Powerful Python script that downloads and checks proxies from several sites.
 
 <h4>You can reach up to 28K proxies!</h4>
