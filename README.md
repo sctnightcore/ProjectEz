@@ -1,19 +1,16 @@
 # ProjectEz
-CD : ล้างหน่อยนะพี่ เค็มปี๋เลยคะ.
+>h4>หลักการทำงาน ดูด Proxy จากเว็บและเช็ค อัตโนมัต
 
-A Multithreading Powerful Python script that downloads and checks proxies from several sites.
+<h4>คุณสามารถดูด Proxy ได้สูด 28K Proxy!</h4>
 
-<h4>You can reach up to 28K proxies!</h4>
+<h2>ใช้ Python3 รันสครีป</h2>
 
-<h2>Install dependencies</h2>
-To use it you need python3 and also an extra module.
-
-To install it, type:
+<h2>วิธีติดตั้ง</h2>
+>pre>pkg install python3<pre/>
+>pkg>install git<pre/<
+>pig>clone https://github.com/xHiz/ProjectEz<pre/>
 <pre>pip3 install bs4</pre>
-
-<h2>Usage</h2>
-To use it, just type:
-
 <pre>python3 ProjectEz.py</pre>
-
-You will be able to download or check all proxies you want.
+<h2>ติดต่อ</h2>
+FB : https://m.facebook.com/krittkorn.papan.37
+Gmail : KrittXDz@gmail.com
